@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y2Zjglse9/aZs09avI6t4k4RSnaTqoaZ4/XYw9pZiB8tQtyBE1IT4gnLFU+FIxL7DS9rsrDP7/N9dTcI16o/dw==",
+  "success": true,
+  "projectFilePath": "D:\\win 7 11 2020\\source\\repos\\BotTelegramGame\\BotTelegramGame\\BotTelegramGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sk\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Sk\\.nuget\\packages\\system.net.requests\\4.3.0\\system.net.requests.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sk\\.nuget\\packages\\telegram.bot\\15.7.1\\telegram.bot.15.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

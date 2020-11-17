@@ -1,0 +1,20 @@
+C:\Users\Sk\source\repos\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csprojAssemblyReference.cache
+C:\Users\Sk\source\repos\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.exe.config
+C:\Users\Sk\source\repos\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.exe
+C:\Users\Sk\source\repos\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.pdb
+C:\Users\Sk\source\repos\BotTelegramGame\BotTelegramGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sk\source\repos\BotTelegramGame\BotTelegramGame\bin\Debug\Telegram.Bot.dll
+C:\Users\Sk\source\repos\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csproj.CopyComplete
+C:\Users\Sk\source\repos\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.exe
+C:\Users\Sk\source\repos\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.pdb
+D:\win 7 11 2020\source\repos\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.exe.config
+D:\win 7 11 2020\source\repos\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.exe
+D:\win 7 11 2020\source\repos\BotTelegramGame\BotTelegramGame\bin\Debug\BotTelegramGame.pdb
+D:\win 7 11 2020\source\repos\BotTelegramGame\BotTelegramGame\bin\Debug\Newtonsoft.Json.dll
+D:\win 7 11 2020\source\repos\BotTelegramGame\BotTelegramGame\bin\Debug\Telegram.Bot.dll
+D:\win 7 11 2020\source\repos\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csprojAssemblyReference.cache
+D:\win 7 11 2020\source\repos\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csproj.CoreCompileInputs.cache
+D:\win 7 11 2020\source\repos\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.csproj.CopyComplete
+D:\win 7 11 2020\source\repos\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.exe
+D:\win 7 11 2020\source\repos\BotTelegramGame\BotTelegramGame\obj\Debug\BotTelegramGame.pdb
